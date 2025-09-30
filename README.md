@@ -12,7 +12,7 @@ The entire analysis culminates in a fully interactive dashboard built with Googl
 
 ---
 
-### View the Original Dataset[here](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
+### View the Original Dataset [Here](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard).
 
 ---
 
