@@ -21,28 +21,6 @@ The entire analysis culminates in a fully interactive dashboard built with Googl
 
 ---
 
-## Directory Structure
-
-uber-project/
-│
-├── data/
-│   ├── processed/      # Contains the cleaned data ready for analysis (e.g., uber_clean.csv)
-│   ├── raw/            # Contains the original, untouched dataset (uber.csv)
-│   └── data_dictionary.csv
-│
-├── img/                # Contains all exported visualizations used in the dashboard and README
-│
-├── notebooks/
-│   ├── extract.ipynb   # Notebook for data loading, cleaning, and processing
-│   └── eda.ipynb       # Notebook for exploratory analysis and visualization
-│
-├── .gitignore          # Specifies which files and folders for Git to ignore
-├── LICENSE             # Project's open-source license
-├── README.md           # This documentation file
-└── requirements.txt    # List of required Python libraries to run the notebooks
-
----
-
 ## How to Run This Project
 
 To reproduce the analysis, follow these steps:
