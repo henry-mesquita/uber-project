@@ -6,6 +6,8 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on a comprehen
 
 The entire analysis culminates in a fully interactive dashboard built with Google's Looker Studio, providing a clear and dynamic way to explore the data.
 
+---
+
 ## 🚀 Live Dashboard
 
 ### [>> View the Interactive Dashboard <<](https://lookerstudio.google.com/u/0/reporting/a23c8dc9-2de3-483b-ba2a-22a9161713e0/page/HwyZF)
